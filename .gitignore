@@ -1,0 +1,11 @@
+
+misc_uses.py
+
+/volleyball_dataset
+/backup_dataset
+/training-outputs
+
+*/__pycache__/
+
+/.idea
+
